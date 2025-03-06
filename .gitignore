@@ -5,6 +5,10 @@
 pretrained_models
 output
 
+*.zip
+*.mp3
+*.wav
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
